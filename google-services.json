@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "591318532727",
+    "firebase_url": "https://gpstrack-eda60-default-rtdb.firebaseio.com",
+    "project_id": "gpstrack-eda60",
+    "storage_bucket": "gpstrack-eda60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591318532727:android:f1d4be6a8ebe94a9337c72",
+        "android_client_info": {
+          "package_name": "com.example.gpshelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591318532727-qo1lpfn819tdbmp2p2jn7msavmrv49h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gpshelper",
+            "certificate_hash": "5311b3c714e7c3929c2c5430b57833eaa9b7a318"
+          }
+        },
+        {
+          "client_id": "591318532727-6a7u2u9tirgkvfs1uu3bld85bhh9k5e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeoZqDH3odhUBFMeS3Qo2nhDLuAP5NpbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591318532727-6a7u2u9tirgkvfs1uu3bld85bhh9k5e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

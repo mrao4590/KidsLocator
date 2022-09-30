@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">591318532727-6a7u2u9tirgkvfs1uu3bld85bhh9k5e0.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://gpstrack-eda60-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">591318532727</string>
+    <string name="google_api_key" translatable="false">AIzaSyBeoZqDH3odhUBFMeS3Qo2nhDLuAP5NpbQ</string>
+    <string name="google_app_id" translatable="false">1:591318532727:android:f1d4be6a8ebe94a9337c72</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBeoZqDH3odhUBFMeS3Qo2nhDLuAP5NpbQ</string>
+    <string name="google_storage_bucket" translatable="false">gpstrack-eda60.appspot.com</string>
+    <string name="project_id" translatable="false">gpstrack-eda60</string>
+</resources>
